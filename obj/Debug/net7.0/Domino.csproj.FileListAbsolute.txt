@@ -1,0 +1,15 @@
+C:\Miguel\Programas mios\Domino\bin\Debug\net7.0\Domino.exe
+C:\Miguel\Programas mios\Domino\bin\Debug\net7.0\Domino.deps.json
+C:\Miguel\Programas mios\Domino\bin\Debug\net7.0\Domino.runtimeconfig.json
+C:\Miguel\Programas mios\Domino\bin\Debug\net7.0\Domino.dll
+C:\Miguel\Programas mios\Domino\bin\Debug\net7.0\Domino.pdb
+C:\Miguel\Programas mios\Domino\obj\Debug\net7.0\Domino.csproj.AssemblyReference.cache
+C:\Miguel\Programas mios\Domino\obj\Debug\net7.0\Domino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Miguel\Programas mios\Domino\obj\Debug\net7.0\Domino.AssemblyInfoInputs.cache
+C:\Miguel\Programas mios\Domino\obj\Debug\net7.0\Domino.AssemblyInfo.cs
+C:\Miguel\Programas mios\Domino\obj\Debug\net7.0\Domino.csproj.CoreCompileInputs.cache
+C:\Miguel\Programas mios\Domino\obj\Debug\net7.0\Domino.dll
+C:\Miguel\Programas mios\Domino\obj\Debug\net7.0\refint\Domino.dll
+C:\Miguel\Programas mios\Domino\obj\Debug\net7.0\Domino.pdb
+C:\Miguel\Programas mios\Domino\obj\Debug\net7.0\Domino.genruntimeconfig.cache
+C:\Miguel\Programas mios\Domino\obj\Debug\net7.0\ref\Domino.dll
